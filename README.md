@@ -8,6 +8,6 @@ I build practical workflows with AI and share the tools behind them.
 
 Built from my own family filmmaking workflow. Includes English and Russian guides, a workflow diagram, local Python helpers and a reproducible example.
 
-[Get started](https://github.com/denyakortunov/family-travel-editor#quick-start) · [Download v0.1.1](https://github.com/denyakortunov/family-travel-editor/releases/tag/v0.1.1) · [По-русски](https://github.com/denyakortunov/family-travel-editor/blob/main/README.ru.md)
+[Get started](https://github.com/denyakortunov/family-travel-editor#quick-start) · [Download v0.1.0](https://github.com/denyakortunov/family-travel-editor/releases/tag/v0.1.0) · [По-русски](https://github.com/denyakortunov/family-travel-editor/blob/main/README.ru.md)
 
 The first release is experimental; it supports a human-led edit, not an automatic finished film.
