@@ -2,7 +2,7 @@
 
 **Interfaces, creative tools and practical AI workflows.**
 
-![Design, code and film](assets/profile-banner.svg)
+[![Family Travel Editor: travel footage on three drives becomes films with help from an AI skill for Claude Code and Codex, used with your video editor.](https://raw.githubusercontent.com/denyakortunov/family-travel-editor/df4d84ba3323a4b35870ea5523e53ee99cde04e4/assets/social-preview.jpg)](https://github.com/denyakortunov/family-travel-editor)
 
 I build things I want to use, then share the process and the tools behind them. My projects connect product interfaces, AI-assisted development and filmmaking.
 
@@ -18,7 +18,7 @@ I build things I want to use, then share the process and the tools behind them. 
 
 The workflow is editor-independent. I use DaVinci Resolve; you can use the plans with your preferred editor. The repository includes Python helpers, a silent FFmpeg preview and a reproducible trimming test. Full editing still needs the right tools and your creative decisions.
 
-[**Explore the workflow →**](https://github.com/denyakortunov/family-travel-editor#what-happens-between-here-are-my-clips-and-a-film) · [**Try one scene →**](https://github.com/denyakortunov/family-travel-editor#start-with-one-scene) · [Download source](https://github.com/denyakortunov/family-travel-editor/archive/refs/heads/main.zip)
+[**Explore the workflow →**](https://github.com/denyakortunov/family-travel-editor/blob/main/docs/from-footage-to-film.md) · [**Try one scene →**](https://github.com/denyakortunov/family-travel-editor#start-with-one-scene) · [Download source](https://github.com/denyakortunov/family-travel-editor/archive/refs/heads/main.zip)
 
 ## Interfaces and AI development
 
