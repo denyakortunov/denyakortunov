@@ -2,7 +2,7 @@
 
 **Interfaces, creative tools and practical AI workflows.**
 
-[![Family Travel Editor: travel footage on three drives becomes films with help from an AI skill for Claude Code and Codex, used with your video editor.](assets/family-travel-pencil.png)](https://github.com/denyakortunov/family-travel-editor)
+[![Family Travel Editor: travel footage on three drives becomes films with help from an AI skill for Claude Code and Codex, used with your video editor.](assets/family-travel-illustrated.svg)](https://github.com/denyakortunov/family-travel-editor)
 
 I build things I want to use, then share the process and the tools behind them. My projects connect product interfaces, AI-assisted development and filmmaking.
 
